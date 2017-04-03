@@ -2,7 +2,7 @@
 
 ```javascript
 
-## N.C.B.C. In Class Group Project, 
+## N.C.B.C. In Class Group Project. 
 
 ### Completed Outside of Class 3/11/2017
 
@@ -11,7 +11,7 @@
 
 ```javascript
 
-TO DO's
+TO DOs
 
 	* Clear Button, remove or add code to clear page
 	
