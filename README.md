@@ -2,9 +2,9 @@
 
 ```javascript
 
-## N.C.B.C. In Class Group Project. 
+ N.C.B.C. In Class Group Project, 
 
-### Completed Outside of Class 3/11/2017
+ Completed Outside of Class 3/11/2017
 
 ```
 
