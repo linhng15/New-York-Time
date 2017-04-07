@@ -4,7 +4,9 @@
 
  N.C.B.C. In Class Group Project, 
 
- Last Revised Outside of Class 3/11/2017
+ Last Revised Outside of Class 4/6/2017
+
+ 	* added target of _blank to open URLs in new window to keep viewer on page.
 
 ```
 
@@ -13,10 +15,7 @@
 
 TO DOs
 
-	* Clear Button, remove or add code to clear page
+	* Clear Button - remove or add code to clear page
 	
-	* add to javascript an HTML element target = blank
-	to results link URL to pop new page and not take viewer
-	away from search page.
 
 ```
