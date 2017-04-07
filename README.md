@@ -8,11 +8,13 @@ based on search parameters.
 
 ```
 <br>
-## N.C.B.C. In Class Group Project
+N.C.B.C. In Class Group Project
 
 ```javascript
 
- N.C.B.C. in class group project in week 6 and was given a time limit of 30 minuets to complete. This project included HTML Layout Creation and was meant to introduce us to the NYT API and working with various APIs, On-Click Events + AJAX, Data Extraction from JSON, HTML Display, and Bug Handling.
+ N.C.B.C. in class group project in week 6 and was given a time limit of 30 minuets to complete.
+ This project included HTML Layout Creation and was meant to introduce us to the NYT API and working
+ with various APIs, On-Click Events + AJAX, Data Extraction from JSON, HTML Display, and Bug Handling.
 
  This project included the following people
 	
@@ -24,7 +26,7 @@ based on search parameters.
 
 ```
 <br>
-## Revision History
+Revision History
 
 ```javascript
 
